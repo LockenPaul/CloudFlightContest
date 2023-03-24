@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2dcfe96-92d0-4a2d-8f91-590f50b86626" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cloudflight-Contest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci/src/main/java/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auction/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auction/src/main/java/AuctionBidding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auction/src/main/java/Bidder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AuctionBidding">
+    <configuration name="AuctionBidding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AuctionBidding" />
+      <module name="auction" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fibonacci" />
       <module name="fibonacci" />
@@ -65,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AuctionBidding" />
         <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
@@ -77,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679690334522</updated>
-      <workItem from="1679690335571" duration="733000" />
+      <workItem from="1679690335571" duration="4339000" />
     </task>
     <servers />
   </component>

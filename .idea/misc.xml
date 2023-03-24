@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/fibonacci/pom.xml" />
+        <option value="$PROJECT_DIR$/auction/pom.xml" />
       </list>
     </option>
   </component>

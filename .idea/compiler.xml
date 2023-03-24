@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="fibonacci" />
+        <module name="auction" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="auction" target="17" />
       <module name="fibonacci" target="1.8" />
     </bytecodeTargetLevel>
   </component>
