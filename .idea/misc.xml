@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/fibonacci/pom.xml" />
         <option value="$PROJECT_DIR$/auction/pom.xml" />
+        <option value="$PROJECT_DIR$/primes/pom.xml" />
       </list>
     </option>
   </component>
